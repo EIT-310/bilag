@@ -1,0 +1,3 @@
+[submodule "EPS-MCU"]
+	path = EPS-MCU
+	url = git@github.com:EIT-310/EPS-MCU.git
