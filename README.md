@@ -9,5 +9,5 @@ Se ``docs/html/index.html`` for dokumentation.
 Indeholder VHDL kildekode for FPGA'en.
 Se ``docs/html/index.html`` for dokumentation.
 
-## måledata
+## Måledata
 Indeholder måledata anvendt i accepttest.
